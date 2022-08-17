@@ -1,0 +1,26 @@
+[
+  {
+    "modelo": "Corsa",
+    "marca": "Chevrolet",
+    "ano": "2015",
+    "preco": 25.985
+  },
+  {
+    "modelo": "Celta",
+    "marca": "Chevrolet",
+    "ano": "2009",
+    "preco": 16.699
+  },
+  {
+    "modelo": "Civic",
+    "marca": "Honda",
+    "ano": "2020",
+    "preco": 98.999
+  },
+  {
+    "modelo": "Corolla",
+    "marca": "Toyota",
+    "ano": "2018",
+    "preco": 86.599
+  }
+]
